@@ -1,2 +1,6 @@
-# dsci310_project
-DSCI 310 Group Project for Team 14
+# [TEMP] Heart Failure Prediction
+### DSCI 310 Group Project for Team 14
+Contributors: Caden Chan, Neha Menon, Peter Cheng & Tak Sripratak
+
+
+
